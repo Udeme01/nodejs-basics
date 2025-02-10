@@ -1,0 +1,8 @@
+## HOW THE WEB WORKS.
+    Client, so the browser sends a request to the server, server reaches out to a database, works with files - sends back a response(html or smth different) - and sends it back to the client, the browser which then displays the response.
+
+## Nodejs runs on the server.
+    The event-loop is a concept in nodejs that...
+    Core modules can be imported and used in any files - import via require('module)
+
+    NB: The createServer() event never finished by default.
