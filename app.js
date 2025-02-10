@@ -64,3 +64,5 @@ const server = http.createServer((req, res) => {
 });
 
 server.listen(8000);
+
+// single thread, event loop, and blocking code...
